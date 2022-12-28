@@ -26,7 +26,7 @@
 					<div class="heading">
 						<h2 class="text-white headline">Employee Management Portal</h2>
 						<p class=" text-white sub-heading">
-							Employees Like You Are One Of a Kind, Our Gratitude To You We
+							I am Shubham Lohar from India. Employees Like You Are One Of a Kind, Our Gratitude To You We
 							Must Remind. <br> Few People Have Your Vision. Thank You For
 							Showing Others An Alternate Perspective. For Your Hardworking
 							Ways, <br> You Deserve Some Praise. Going the Extra Mile.
