@@ -24,7 +24,7 @@
 			<div class="col-lg-12">
 				<div class="row">
 					<div class="heading">
-						<h2 class="text-white headline">Employee Management Portal (Shubham Lohar)</h2>
+						<h3 class="text-white headline">Employee Management Portal</h3>
 						<p class=" text-white sub-heading">
 							I am Shubham Lohar from India. Employees Like You Are One Of a Kind, Our Gratitude To You We
 							Must Remind. <br> Few People Have Your Vision. Thank You For
