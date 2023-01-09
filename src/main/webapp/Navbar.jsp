@@ -14,8 +14,11 @@ Employee login_emp2 = (Employee) session.getAttribute("login_user");
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active text-white" aria-current="page" href="index.jsp">Home</a>
+          <a class="nav-link active text-white" aria-current="page" href="index.jsp">(Author: Shubham Lohar)</a>
         </li>
+		<li class="nav-item">
+			<a class="nav-link active text-white" aria-current="page" href="index.jsp">Home</a>
+		  </li>
       </ul>
 		      <form class="d-flex" role="search">
 		        <a class="nav-link active text-white" data-bs-toggle="modal" data-bs-target="#exampleModal1" style="font-weight: bold;">Login Now</a>
