@@ -1,4 +1,8 @@
 #!/bin/bash
+#############################
+# Author: Shubham Lohar
+# Email: shubhamlohar952@gmail.com
+##############################
 if [[ $UID -ne 0 ]]
 then
     echo "You are not root user!"
