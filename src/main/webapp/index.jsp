@@ -25,9 +25,9 @@
 			<div class="col-lg-12">
 				<div class="row">
 					<div class="heading">
-						<h2 class="text-white">Employee Registration Portal</h2>
+						<h2 class="text-white">Student Registration Portal</h2>
 						<p class=" text-white sub-heading">
-							I am Shubham Lohar from India. Employees Like You Are One Of a Kind, Our Gratitude To You We
+							Employees Like You Are One Of a Kind, Our Gratitude To You We
 							Must Remind. <br> Few People Have Your Vision. Thank You For
 							Showing Others An Alternate Perspective. For Your Hardworking
 							Ways, <br> You Deserve Some Praise. Going the Extra Mile.
